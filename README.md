@@ -34,5 +34,29 @@ DataFrame Dimension after dropping:
 
 ![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/f7a4c092-09b8-4af0-93bc-8c5124109bc6)
 
+- F Values:
+
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/a80f084c-fedc-46b9-b18e-c23b9252294b)
+
+- M Values:
+
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/2398b038-6ceb-4c0e-a6a9-cf0fad77dad0)
+
+### 2.4 Caculate RFM scores using quintiles method of Statistics:
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/f518d093-bd1a-4621-870e-5fa17bc8de50)
+
+### 2.5 Customer Segmentation based on RFM Scores:
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/5c98c683-4a39-4516-971a-e75b04a5c0d9)
+
+### 2.6 Caculate number of customers, total spend and average of recency of each segmentation:
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/c818b3d0-e555-4938-bf21-fd76cc6b9997)
+
+### 2.7 Caculate percentage of customers and monetary of each segmentation:
+![image](https://github.com/phuonght3001/Super-Store-RFM-Analysis---Python/assets/150796721/f52b7631-c0e4-4002-ad7f-5708b60fa5c4)
+
+
+
+
+
 
 
